@@ -1,0 +1,25 @@
+{
+  "Name": "T22",
+  "License": "CC0",
+  "Authors": [
+    "Jason S. Metcalfe",
+    "Victor Paul",
+    "Benamin Haynes",
+    "Corey Atwater",
+    "Amar Marathe",
+    "Gregory Gremillion",
+    "Kim Drnec",
+    "William Nothwang",
+    "Justin R. Estepp",
+    "Margaret Bowers",
+    "Jamie Lukos",
+    "Tony Johnson",
+    "Mike Dunkel",
+    "Stephen Gordon",
+    "Jon Touryan",
+    "Kevin King"
+  ],
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}
